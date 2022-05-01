@@ -1,2 +1,2 @@
-# YT_Tutorial_Pkg_Percent_Indicator
-Code for the Youtube tutorial (https://youtu.be/L38_OkEi3dA) on how to use the Flutter library percent_indicator
+# Youtube Tutorial Code for Flutter Package *percent_indicator*
+Code for the Youtube tutorial (https://youtu.be/T2YEkXC-j8E) on how to use the Flutter library percent_indicator
